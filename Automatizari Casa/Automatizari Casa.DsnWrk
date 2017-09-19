@@ -1,0 +1,8 @@
+[ProjectGroup]
+Version=1.0
+[Project1]
+ProjectPath=..\GenericComponents.LibPkg
+[Project2]
+ProjectPath=Distribuitor\Distrubuitor.PrjPCB
+[Project3]
+ProjectPath=Switch\Switch.PrjPCB
